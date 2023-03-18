@@ -1,3 +1,9 @@
+/**
+ * @author YEJIN
+ * @since 2023-03-18
+ * @version 1.0.0
+ * */
+
 public class Book {
     private String title;
     private int price; // field price
